@@ -22,6 +22,8 @@ My solutions to some of the katas at [codewars](https://codewars.com)
   [C](playing-with-passphrases.c)
 * [Rainfall](https://www.codewars.com/kata/56a32dd6e4f4748cc3000006):
   [Python](rainfall.py)
+* [Reducing by steps](https://www.codewars.com/kata/56efab15740d301ab40002ee):
+  [OCaml](reducing-by-steps.ml)
 * [Sum The Tree](https://www.codewars.com/kata/5800580f8f7ddaea13000025):
   [C](sum-the-tree.c)
 * [Tortoise racing](https://www.codewars.com/kata/55e2adece53b4cdcb900006c):
