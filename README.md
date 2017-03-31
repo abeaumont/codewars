@@ -59,3 +59,4 @@ My solutions to some of the katas at [codewars](https://codewars.com)
 * [Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028):
   [JavaScript](powers-of-two.js),
   [OCaml](powers-of-two.ml)
+* [To square(root) or not to square(root)](https://www.codewars.com/kata/57f6ad55cca6e045d2000627)
