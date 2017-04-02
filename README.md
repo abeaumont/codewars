@@ -55,7 +55,8 @@ My solutions to some of the katas at [codewars](https://codewars.com)
 * [Enumerable Magic #6 - Count Items](https://www.codewars.com/kata/545aa9cf85166a9d8e000df6):
   [Ruby](enumerable-magic-6-count-items.rb)
 * [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe):
-  [C](even-or-odd.c)
+  [C](even-or-odd.c),
+  [Clojure](even-or-odd.clj)
 * [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004):
   [C++](multiply.cc)
 * [Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028):
