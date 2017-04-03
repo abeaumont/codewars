@@ -1,5 +1,8 @@
 My solutions to some of the katas at [codewars](https://codewars.com)
 
+## 1 kyu
+* [Tiny Three-Pass Compiler](https://www.codewars.com/kata/5265b0885fda8eac5900093b):
+  [OCaml](tiny-three-pass-compiler.ml)
 ## 2 kyu
 * [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005):
   [JavaScript](evaluate-mathematical-expression.js)
