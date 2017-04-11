@@ -7,6 +7,11 @@ My solutions to some of the katas at [codewars](https://codewars.com)
 * [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005):
   [JavaScript](evaluate-mathematical-expression.js)
 
+## 5 kyu
+
+* [Evaluate a postfix expression](https://www.codewars.com/kata/577e9095d648a15b800000d4):
+  [JavaScript](evaluate-a-postfix-expression.js)
+
 ## 6 kyu
 * [A disguised sequence (I)](https://www.codewars.com/kata/563f0c54a22b9345bf000053):
   [OCaml](a-disguised-sequence-i.ml),
