@@ -53,6 +53,8 @@ My solutions to some of the katas at [codewars](https://codewars.com)
   [OCaml](sort-array-by-string-length.ml)
 * [Sorted? yes? no? how?](https://www.codewars.com/kata/580a4734d6df748060000045):
   [C](sorted-yes-no-how.c)
+* [Speed Control](https://www.codewars.com/kata/56484848ba95170a8000004d)
+  [Crystal](speed-control.cr)
 * [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac):
   [C](two-to-one.c)
 ## 8 kyu
