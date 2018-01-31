@@ -62,6 +62,8 @@ My solutions to some of the katas at [codewars](https://codewars.com)
   [JavaScript](basic-variable-assignment.js),
   [PHP](basic-variable-assignment.php),
   [Ruby](basic-variable-assignment.rb)
+* [Do I get a bonus?](https://www.codewars.com/kata/do-i-get-a-bonus/):
+  [Clojure](do-i-get-a-bonus.clj)
 * [Duck Duck Goose](https://www.codewars.com/kata/582e0e592029ea10530009ce):
   [Crystal](duck-duck-goose.cr)
 * [Enumerable Magic #6 - Count Items](https://www.codewars.com/kata/545aa9cf85166a9d8e000df6):
