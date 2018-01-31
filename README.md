@@ -60,6 +60,8 @@ My solutions to some of the katas at [codewars](https://codewars.com)
   [JavaScript](basic-variable-assignment.js),
   [PHP](basic-variable-assignment.php),
   [Ruby](basic-variable-assignment.rb)
+* [Duck Duck Goose](https://www.codewars.com/kata/582e0e592029ea10530009ce):
+  [Crystal](duck-duck-goose.cr)
 * [Enumerable Magic #6 - Count Items](https://www.codewars.com/kata/545aa9cf85166a9d8e000df6):
   [Ruby](enumerable-magic-6-count-items.rb)
 * [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe):
