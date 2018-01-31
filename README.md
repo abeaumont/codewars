@@ -65,6 +65,7 @@ My solutions to some of the katas at [codewars](https://codewars.com)
 * [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe):
   [C](even-or-odd.c),
   [Clojure](even-or-odd.clj)
+  [CoffeeScript](even-or-odd.coffee)
 * [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004):
   [C++](multiply.cc)
 * [Powers of 2](https://www.codewars.com/kata/57a083a57cb1f31db7000028):
